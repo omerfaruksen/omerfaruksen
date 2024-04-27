@@ -5,15 +5,9 @@
 <h3 align="left">Connect with me:</h3>
 
 ###
-
-<div align="left">
-  <a href="www.linkedin.com/in/omerfaruksen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="sen.faruk.93@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/omerfaruksen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omerfaruksen" height="30" width="40" /></a>
+</p>
 
 ###
 
