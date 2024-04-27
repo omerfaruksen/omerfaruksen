@@ -6,13 +6,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/omerfaruksen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfaruksen" height="30" width="40" /></a>
 </p>
-<hr>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 ###
-
+<hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="17" />
