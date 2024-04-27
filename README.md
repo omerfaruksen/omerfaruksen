@@ -1,6 +1,7 @@
 <h2 align="center">Hi, I'm Ömer Faruk ŞEN<br><br>Physics Engineer || FullStack Web Developer</h2>
 
 ###
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
