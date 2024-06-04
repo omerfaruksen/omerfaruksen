@@ -1,4 +1,5 @@
 <h2 align="center">Hi, I'm Ömer Faruk ŞEN<br><br>Physics Engineer || FullStack Web Developer</h2>
+I continue to develop projects in the Front-End and Back-End areas. I have developed many projects with various technology tools such as Java, JavaScript, React, Context Api, Node.js, Spring Boot, Hibernate, MySQL, PostgreSQL and achieved successful results by carrying out all end-to-end processes of the projects. I want to continue my career as a Front-End Developer. On the other hand, I follow technological developments closely.
 
 <h3 align="left">Connect with me:</h3>
 
