@@ -46,3 +46,6 @@ I continue to develop projects in the Front-End and Back-End areas. I have devel
 
 ###
 <hr>
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
